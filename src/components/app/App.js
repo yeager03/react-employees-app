@@ -37,13 +37,6 @@ class App extends Component {
 					rise: false,
 					id: uuidv4(),
 				},
-				{
-					name: "Aiym E.",
-					salary: 500,
-					increase: false,
-					rise: false,
-					id: uuidv4(),
-				},
 			],
 			// add item
 			name: "",
